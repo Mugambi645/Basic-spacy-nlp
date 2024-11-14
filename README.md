@@ -1,1 +1,1 @@
-# spacy-text-classification
+# Basic NLP tasks with spacy
